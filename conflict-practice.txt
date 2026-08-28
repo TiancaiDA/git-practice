@@ -1,1 +1,1 @@
-Base content
+Content from conflict branch
